@@ -25,7 +25,7 @@
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Java-F26A27?style=for-the-badge&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-2729F2?style=for-the-badge&logo=php&logoColor=grey">
+  <img src="https://img.shields.io/badge/PHP-2729F2?style=for-the-badge&logo=php&logoColor=white">
 </p>
 
 <h3>Frontend Development</h3>
