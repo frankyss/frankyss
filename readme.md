@@ -24,8 +24,8 @@
 <h3>Programming Languages</h3>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=javascript&logoColor=orange">
-  <img src="https://img.shields.io/badge/PHP-F7DF1E?style=for-the-badge&logo=javascript&logoColor=blue">
+  <img src="https://img.shields.io/badge/Java-F26A27?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-2729F2?style=for-the-badge&logo=php&logoColor=grey">
 </p>
 
 <h3>Frontend Development</h3>
@@ -51,8 +51,8 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-  <img src="https://img.shields.io/badge/VisualCode-FF6C37?style=for-the-badge&logo=Postman&logoColor=blue">
-  <img src="https://img.shields.io/badge/Jira-430098?style=for-the-badge&logo=heroku&logoColor=white"> 
+  <img src="https://img.shields.io/badge/VisualCode-2729F2?style=for-the-badge&logo=visualcode&logoColor=blue">
+  <img src="https://img.shields.io/badge/Jira-430098?style=for-the-badge&logo=jira&logoColor=white"> 
 </p>
 </br>
       
